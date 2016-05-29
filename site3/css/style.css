@@ -73,8 +73,8 @@ body {
 }
 
 .navar1{
-  float: center;
-  position: center;
+  text-align: center;
+  border: 2px #232B2B;
 }
 
 
